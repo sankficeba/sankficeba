@@ -20,7 +20,11 @@
 - 📊 **Data Science Projects** (predictions, visualization)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankficeba&show_icons=true&theme=radical)
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankficeba&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankficeba&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankficeba&theme=github_dark" alt=""/>
+</div>
 
 ### 📫 How to Reach Me?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sankficeba)
@@ -28,12 +32,3 @@
 
 ---
 💡 *Open to new projects and opportunities!* 🚀
-
-
-### My stat
-
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankficeba&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankficeba&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankficeba&theme=github_dark" alt=""/>
-</div>
