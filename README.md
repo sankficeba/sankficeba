@@ -20,7 +20,7 @@
 - 📊 **Data Science Projects** (predictions, visualization)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankficeba&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sankficeba)
