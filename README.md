@@ -16,9 +16,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📌 My Projects
-- 🏦 **Financial Analysis of OHLC Data** (Pivot table with NumPy)
-- 🤖 **Data Collection Automation** (parsing + analysis)
-- 📊 **Data Science Projects** (predictions, visualization)
+- 🛠 **Custom Compiler Implementation** – Developed my own compiler from scratch, including lexical analysis, syntax parsing, and code generation.
+- 📈 **Data Processing with NumPy & Pandas** – Experience in efficient data manipulation, aggregation, and visualization using NumPy and Pandas.
+- 🗄 **Database Management with PostgreSQL** – Worked with PostgreSQL for data storage, querying, and optimization, including indexing and complex joins.
+
 
 ### 📈 GitHub Stats
 <div id="stat" align="center">
