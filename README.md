@@ -5,7 +5,6 @@
 - 💼 Aspiring **Junior Java Developer**
 - 🌍 Aiming to get into an **Ivy League** university
 - 📈 Interested in finance, data analytics, and IT
-- 💡 Working on projects in **finance and automation**
 
 ### 🛠️ Technologies
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
