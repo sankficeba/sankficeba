@@ -3,7 +3,6 @@
 ### 🚀 About Me
 - 🎓 Studying at **Higher School of Economics**
 - 💼 Aspiring **Junior Java Developer**
-- 🌍 Aiming to get into an **Ivy League** university
 - 📈 Interested in finance, data analytics, and IT
 
 ### 🛠️ Technologies
