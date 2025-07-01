@@ -2,7 +2,6 @@
 
 ### 🚀 About Me
 - 🎓 Studying at **Higher School of Economics**
-- 💼 Aspiring **Junior Java Developer**
 - 📈 Interested in finance, data analytics, and IT
 
 ### 🛠️ Technologies
